@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="13.982mm"
+   height="13.982mm"
+   version="1.1"
+   viewBox="0 0 13.982 13.982"
+   id="svg14"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8601203"
+     inkscape:cx="-27.796034"
+     inkscape:cy="69.577493"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="174"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <defs
+     id="defs8">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4143"
+       id="pattern1934"
+       patternTransform="matrix(0.201699,-0.201699,0.201699,0.201699,6.9910003,6.9910002)" />
+    <pattern
+       id="pattern4149"
+       patternTransform="matrix(.10008 .10008 -.21081 .21081 68.692 69.039)"
+       xlink:href="#pattern4143" />
+    <pattern
+       id="pattern4143"
+       width="17.305549"
+       height="42.95486"
+       patternTransform="translate(-58.445 9.8889)"
+       patternUnits="userSpaceOnUse">
+      <rect
+         x="8.6528"
+         width="8.6528"
+         height="42.955"
+         fill="#ffe800"
+         stroke-linecap="round"
+         stroke-width="2"
+         id="rect3" />
+      <rect
+         width="8.6528"
+         height="42.955"
+         fill="#222"
+         stroke-linecap="round"
+         stroke-width="2"
+         id="rect5" />
+    </pattern>
+  </defs>
+  <rect
+     style="fill:url(#pattern1934);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round"
+     id="rect1885"
+     width="13.982"
+     height="13.982"
+     x="0"
+     y="0" />
+</svg>
